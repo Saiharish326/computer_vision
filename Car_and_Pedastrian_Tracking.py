@@ -23,5 +23,5 @@ cv2.waitKey()
 
 
 
-print("car and pedestrian tracking code completed ")
+print("code completed ")
 
